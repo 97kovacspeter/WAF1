@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrder.Persistence", "FoodOrder.Persistence\FoodOrder.Persistence.csproj", "{B6E880EA-DC14-49BF-A43E-B1318D9AFD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrder.Website", "FoodOrder.Website\FoodOrder.Website.csproj", "{FD3C6388-6CDA-437A-8D7C-013BA0A803FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E880EA-DC14-49BF-A43E-B1318D9AFD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E880EA-DC14-49BF-A43E-B1318D9AFD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E880EA-DC14-49BF-A43E-B1318D9AFD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E880EA-DC14-49BF-A43E-B1318D9AFD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3C6388-6CDA-437A-8D7C-013BA0A803FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3C6388-6CDA-437A-8D7C-013BA0A803FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3C6388-6CDA-437A-8D7C-013BA0A803FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3C6388-6CDA-437A-8D7C-013BA0A803FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5B24AF-B880-4E39-8AE5-E4CB4DF597B6}
+	EndGlobalSection
+EndGlobal

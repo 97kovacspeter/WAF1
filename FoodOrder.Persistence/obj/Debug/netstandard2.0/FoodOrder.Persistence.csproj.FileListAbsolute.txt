@@ -1,0 +1,9 @@
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\bin\Debug\netstandard2.0\FoodOrder.Persistence.deps.json
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\bin\Debug\netstandard2.0\FoodOrder.Persistence.dll
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\bin\Debug\netstandard2.0\FoodOrder.Persistence.pdb
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\obj\Debug\netstandard2.0\FoodOrder.Persistence.csproj.CoreCompileInputs.cache
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\obj\Debug\netstandard2.0\FoodOrder.Persistence.AssemblyInfoInputs.cache
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\obj\Debug\netstandard2.0\FoodOrder.Persistence.AssemblyInfo.cs
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\obj\Debug\netstandard2.0\FoodOrder.Persistence.dll
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\obj\Debug\netstandard2.0\FoodOrder.Persistence.pdb
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Persistence\obj\Debug\netstandard2.0\FoodOrder.Persistence.csprojAssemblyReference.cache

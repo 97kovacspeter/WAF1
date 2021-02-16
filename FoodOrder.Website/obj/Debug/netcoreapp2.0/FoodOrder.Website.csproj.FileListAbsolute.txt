@@ -1,0 +1,14 @@
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.csprojAssemblyReference.cache
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.csproj.CoreCompileInputs.cache
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.AssemblyInfoInputs.cache
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.AssemblyInfo.cs
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Website.deps.json
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Website.runtimeconfig.json
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Website.runtimeconfig.dev.json
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Website.dll
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Website.pdb
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Persistence.dll
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\bin\Debug\netcoreapp2.0\FoodOrder.Persistence.pdb
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.csproj.CopyComplete
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.dll
+D:\Users\Prométeusz\Desktop\SZEMLÉLET\WAF\2bead1\FoodOrder\FoodOrder.Website\obj\Debug\netcoreapp2.0\FoodOrder.Website.pdb
